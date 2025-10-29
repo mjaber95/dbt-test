@@ -1,0 +1,10 @@
+version: 2
+
+sources:
+  - name: raw_data_circle
+    description: raw data for circle
+    tables:
+    - name: raw_cc_stock
+      description: stock of product
+    - name: raw_cc_sales
+      description: sales of product
